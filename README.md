@@ -4,6 +4,9 @@ I am working on a windows so I downloaded git from https://git-scm.com.
 
 After installation I am able to run git from command prompt anywhere on the computer and I can also right click on any directory and open git bash there.
 
+![image](https://user-images.githubusercontent.com/77127829/125734571-384a1c6f-3d92-405b-a863-f810d2c430ce.png)
+
+
 Below is how I ran each command and uploaded to my repository. 
 
 **Git clone**: 
