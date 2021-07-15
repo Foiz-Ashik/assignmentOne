@@ -40,14 +40,16 @@ Git Status:
 Git Commit:
 
 
-![3](https://user-images.githubusercontent.com/77127829/125733815-d0dcd916-e16d-403d-92d5-c82531606935.gif)
+![4](https://user-images.githubusercontent.com/77127829/125734087-f67cf8e2-1a13-4539-86a0-25d13d13f748.gif)
+
 
 
 
 Git push:
 
 
-![4](https://user-images.githubusercontent.com/77127829/125733835-1085a83c-51ec-42e0-80c7-270828db866b.gif)
+![5](https://user-images.githubusercontent.com/77127829/125734094-4b5ec76d-d64b-4402-880c-5dfd3b969967.gif)
+
 
 
 
