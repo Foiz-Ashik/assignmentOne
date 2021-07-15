@@ -2,14 +2,36 @@ import java.util.*;
 
 public class Contact implements Iterable<Contact> {
 	private ArrayList<Contact> contacts;
+	/* 
+	
+	
+	I MADE CHANGES
+	
+	
+	*/
+	
 
 	public Contact() {
 		contacts = new ArrayList<>();
 	}
+	/* 
+	
+	
+	I MADE more CHANGES
+	
+	
+	*/
 
 	public Contact(Contact[] contacts) {
 		this.contacts = new ArrayList<>(Arrays.asList(contacts));
 	}
+	/* 
+	
+	
+	CHANGES
+	
+	
+	*/
 
 	Contact findByLastName(String last) {
 		int left = 0;
