@@ -55,7 +55,7 @@ Git push:
 
 After running git push it asks for my github credentials before pushing it to the repository.
 
-. 
+ 
 Now it has been added to my repository.
 
 ![image](https://user-images.githubusercontent.com/77127829/125734279-cd1b9095-aea2-4afa-9c9c-bc8a2b1dd295.png)
