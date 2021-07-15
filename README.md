@@ -1,5 +1,4 @@
-Git commands: 
-My repo: https://github.com/Foiz-Ashik/assignmentOne
+**Git commands**: 
 
 I am working on a windows so I downloaded git from https://git-scm.com. 
 
