@@ -54,10 +54,20 @@ Git push:
 
 
 After running git push it asks for my github credentials before pushing it to the repository.
+
 . 
 Now it has been added to my repository.
 
+![image](https://user-images.githubusercontent.com/77127829/125734279-cd1b9095-aea2-4afa-9c9c-bc8a2b1dd295.png)
+
+
 I will now make a change and commit the changes into my repository. 
 
+![image](https://user-images.githubusercontent.com/77127829/125734299-79ed7b3a-8e51-48ec-b710-0cf4c658c8ec.png)
+
+
 After the changes I now see the updated file under my repo. 
+
+![image](https://user-images.githubusercontent.com/77127829/125734324-2b5e538a-188d-4cc9-9a3f-d52ea7b24857.png)
+
 
