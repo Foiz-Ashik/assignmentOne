@@ -33,7 +33,8 @@ Git add:
 Git Status:
 
 
-![2](https://user-images.githubusercontent.com/77127829/125733798-89bfd8f1-4e07-4cff-8e3b-2c169c6a722e.gif)
+![3](https://user-images.githubusercontent.com/77127829/125734051-cdce1ae1-1d4f-4d10-aea2-9e33d1d53499.gif)
+
 
 
 Git Commit:
